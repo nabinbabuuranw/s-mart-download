@@ -1,0 +1,48 @@
+{
+ "name": "S Mart",
+ "version": "0.1.0-m2",
+ "release_date": "2026-11-05",
+ "filename": "SMart-0.1.0-m2.apk",
+ "package": "com.nabin.smart",
+ "size": 8385513,
+ "sha256": "5643cfdd1ab19add62cc4e79de40af38132a132dfd84004cd405b54e209f503a",
+ "chunk_size": 1258291,
+ "base": "v0.1.0-m2/",
+ "chunks": [
+  {
+   "name": "part-000.bin",
+   "size": 1258291,
+   "sha256": "27a230174463496da6356f7d5955272be9eda5b558e33af1a24151dfd88c938f"
+  },
+  {
+   "name": "part-001.bin",
+   "size": 1258291,
+   "sha256": "40fa5753925a2f636bb38f99b8d582e4dcf3ea902224824e83c4d692b598a6fc"
+  },
+  {
+   "name": "part-002.bin",
+   "size": 1258291,
+   "sha256": "ed348219fcd192323c07679139fac0181dd94e0f4e7dfc00f991d875a870efa9"
+  },
+  {
+   "name": "part-003.bin",
+   "size": 1258291,
+   "sha256": "4468b487b675bd5950d59353dac6e3ae33cbb618ef6b52c6ada337154af11e6e"
+  },
+  {
+   "name": "part-004.bin",
+   "size": 1258291,
+   "sha256": "2b468dea2b95833776ca9f3c3c53f1695000e3a6885d26a27d49b64593abc840"
+  },
+  {
+   "name": "part-005.bin",
+   "size": 1258291,
+   "sha256": "1201a9f02f16b9ebd636b9f1e7cc443afbb06d50ee008d61409513b6bf42a86c"
+  },
+  {
+   "name": "part-006.bin",
+   "size": 835767,
+   "sha256": "4c32acc80703c52a9d0caf7c31ff8b68a873f03c31d8ac136a4a6a2cb9118997"
+  }
+ ]
+}
